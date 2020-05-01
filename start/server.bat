@@ -1,0 +1,1 @@
+cd %bhl% && npx server.js

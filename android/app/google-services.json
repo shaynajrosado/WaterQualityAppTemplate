@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841501973463",
+    "firebase_url": "https://bluehomelabnotification.firebaseio.com",
+    "project_id": "bluehomelabnotification",
+    "storage_bucket": "bluehomelabnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841501973463:android:0055292e0c8d943c928992",
+        "android_client_info": {
+          "package_name": "com.bhl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841501973463-k2ur6qqdmofmdp80np954icr4m3ko4m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhl",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "841501973463-28jm69vb1f7r023edaak0m3u7l4kq59l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT5_8uoYr8tjT3kFWAfB9lPHNgI2kmVpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841501973463-28jm69vb1f7r023edaak0m3u7l4kq59l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
