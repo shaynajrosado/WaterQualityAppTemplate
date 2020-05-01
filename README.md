@@ -1,4 +1,4 @@
-<h1>Blue HomeLab</h1>
+<h1>Based off: Blue HomeLab</h1>
 A consumer app which delivers real-time data read in from water sensors.
 
 <h1>Purpose:</h1>
