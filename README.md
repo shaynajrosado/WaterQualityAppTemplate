@@ -1,4 +1,4 @@
-<h1>Based off: Blue HomeLab [Private]</h1>
+<h1>Based on: Blue HomeLab [Private Repo]</h1>
 A consumer app which delivers real-time data read in from water sensors.
 
 <h1>Purpose:</h1>
