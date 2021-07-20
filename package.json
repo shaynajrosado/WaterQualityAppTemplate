@@ -51,7 +51,7 @@
     "path": "^0.12.7",
     "react": "16.9.0",
     "react-devtools": "^3.6.3",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-clean-project": "^3.3.0",
     "react-native-gesture-handler": "^1.5.2",
     "react-native-paper": "^3.4.0",
